@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Alberto Villanueva-Espino
-- 👀 I’m interested in the ecology and evolution of plant-pollinator-microorganism interactions and the eco-evolutionary consequences of domestication in plants and microorganisms.
+- 👀 I’m interested in the ecology and evolution of plant-pollinator-microorganism interactions and the eco-evolutionary consequences of domestication in plants and microorganisms. I'm also interested in bioinformatics and data analysis.
 - 🌱 I’m currently studying a graduate program in UNAM, México 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: lvillanueva@cieco.unam.mx

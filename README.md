@@ -7,8 +7,7 @@
 Education
 - PhD in Biological Science | ENES UNAM Morelia, Mexico | Dr. Mauricio Quesada Avendaño | September 2020 - Present
 - MsC in Biological Science | ENES UNAM Morelia, México | Dr. Mauricio Quesada Avendaño | August 2017 - September 2020
-- Bachelor in Biology | Benemerita Universidad Autónoma de Puebla | Dra. Adriana Berenice Silva Gomez | August 2010 - March 2016
-- 
+- Bachelor in Biology | Benemerita Universidad Autónoma de Puebla | Dra. Adriana Berenice Silva Gomez | August 2010 - March 2016 
 <!---
 luisal21/luisal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
